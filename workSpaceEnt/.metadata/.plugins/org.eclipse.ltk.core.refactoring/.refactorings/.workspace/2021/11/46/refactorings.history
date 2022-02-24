@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Borre 2 recursos" deleteContents="false" description="Borre 2 recursos" element1="/PracticaEntornos/fichero1.txt" element2="/PracticaEntornos/fichero2.txt" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="2" stamp="1637264437986"/>
+</session>
